@@ -12,9 +12,7 @@ title: 关于我
 <p>
 
 <h3> 我的博客 </h3>  
-
 <p>
-
 这个博客是我在
 <a href="http://baixin.io/#blog"> 潘柏信个人博客 </a>基础上加上好友<a href="http://zhanghao.io">张浩</a>苦苦指导下才"艰难"完成。总之在这个炎热的七月初，我的个人站也算是上线了=.=。
 
@@ -35,7 +33,6 @@ title: 关于我
 <p> 
 
 <h3> 友情链接 </h3>
-
 <ul>
 <li><a target="_blank" href="http://zhanghao.io/">张浩的个人博客</a></li>
 <li><a target="_blank" href="http://www.688r.cn/">佟杰的个人博客</a></li>
@@ -45,26 +42,23 @@ title: 关于我
 <p> 
 
 <h3> 来玩小游戏 </h3>
-
 <ul>
-
-<li><a target="_blank" href="http://123.206.74.224:8888/H5Game/2048/index.html">2048</a></li>
-
-<li><a target="_blank" href="http://123.206.74.224:8888/H5Game/RetroSnaker/tanchishe.html">贪吃蛇</a></li>
-
-<li><a target="_blank" href="http://123.206.74.224:8888/H5Game/Super-Mario/index.html">超级玛丽</a></li>
-
-<li><a target="_blank" href="http://123.206.74.224:8888/H5Game/Tetris/Single/index.html">俄罗斯方块_单人版</a></li>
-
-<li><a target="_blank" href="http://123.206.74.224:8888/H5Game/Tetris/online/index.html">俄罗斯方块_联机版</a></li>
-
-<li><a target="_blank" href="http://123.206.74.224:8888/H5Game/Gobang/index.html">五子棋</a></li>
-
+<ul>
+	<li><a target="_blank" href="https://lines.frvr.com/">在线连连看</a></li>
+	<li><a target="_blank" href="http://slither.io/">贪吃蛇大作战</a></li>
+	<li><a target="_blank" href="http://www.saolei.org.cn/">扫雷</a></li>
+	<li><a target="_blank" href="http://fakeupdate.net/">假装系统升级(摸鱼利器，F11 键全屏播放)</a></li>
+  <li><a target="_blank" href="http://123.206.74.224:8888/H5Game/2048/index.html">2048</a></li>
+  <li><a target="_blank" href="http://123.206.74.224:8888/H5Game/RetroSnaker/tanchishe.html">贪吃蛇</a></li>
+	<li><a target="_blank" href="http://123.206.74.224:8888/H5Game/Super-Mario/index.html">超级玛丽</a></li>
+  <li><a target="_blank" href="http://123.206.74.224:8888/H5Game/Tetris/Single/index.html">俄罗斯方块_单人版</a></li>
+  <li><a target="_blank" href="http://123.206.74.224:8888/H5Game/Tetris/online/index.html">俄罗斯方块_联机版</a></li>
+  <li><a target="_blank" href="http://123.206.74.224:8888/H5Game/Gobang/index.html">五子棋</a></li>
 </ul>
 
-<p> 
 
-<a target="_blank" href="/files/20190507_QCon2019_ChaosBlade0.5.pdf">20190507_QCon2019_云原生架构下的混沌工程实践0.5</a>
+
+------------
 
 
 {% include comments.html %}

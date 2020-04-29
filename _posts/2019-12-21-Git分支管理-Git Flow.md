@@ -231,7 +231,6 @@ tag: Git
    ![完成发布.png](http://q33kciz5a.bkt.clouddn.com/gitflow:完成发布.png)
 
 <center>将release分支分别合入master和develop分支</center>
-
 7. 遇到紧急BUG
 
    随着上线的完成，突然发现一个紧急bug需要修复，这个时候测试人员分配一个bug号（如，20191221-001）并做记录以便后续测试，管理员拿到bug号基于master创建了一个用于维护的分支（如，issue/20191221-001）。开发人员在这个分支上修复了那个bug，然后把改动的代码直接合并入master，并打上版本，V1.1.1。
@@ -251,10 +250,9 @@ tag: Git
    ![bug分支.png](http://q33kciz5a.bkt.clouddn.com/gitflow:bug分支.png)
 
    <center>从master拉issue分支修改bug，最后合入master</center>
-
-   跟发布分支一样，在维护分支上的改动也需要合并入develop分支，用于记录该过程。随后，就可以将维护分支删除。
-
-   ```shell
+跟发布分支一样，在维护分支上的改动也需要合并入develop分支，用于记录该过程。随后，就可以将维护分支删除。
+   
+```shell
    # 切换到开发分支
    git checkout develop
    # 合并维护分支
